@@ -9,7 +9,7 @@ FrontEnd Developer Wannabe | Cyber Security Enthusiast
 
   ![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  ![CTF](https://img.shields.io/badge/CTF-black?style=for-the-badge&logo=hackthebox) 
 
-  ##### Skills
+  #### Skills
 
   ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
