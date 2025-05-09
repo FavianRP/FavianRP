@@ -1,7 +1,7 @@
 # Hi There!👋
 FrontEnd Developer Wannabe | Cyber Security Enthusiast
 
-![favianrp](./img/github-header-image.png)
+![favianrp](/img/github-header-image.png)
 
 - 🚩 I’m currently learning [**CTF**](https://ctftime.org/)
 - ⚛️ I’m currently learning [**ReactJS**](https://react.dev/)  
